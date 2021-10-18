@@ -19,18 +19,18 @@ body {
   font-size: 1rem;
   color: $desaturatedBlue;
   background-color: $paleBlue;
-  background-image: url(/images/pattern-background-mobile.svg);
+  background-image: url(../images/pattern-background-mobile.svg);
   background-position: 0 -430px;
   background-size: cover;
   background-repeat: no-repeat;
 
   @include breakpoint-up(md) {
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
     background-position: 0 -230px;
   }
 
   @include breakpoint-up(lg) {
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
     background-position: 0 -230px;
   }
 }
