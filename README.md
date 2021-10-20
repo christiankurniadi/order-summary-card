@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solustion](https://your-solution-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
 - Live Site URL: [Live site](https://christiankurniadi.github.io/order-summary-card/)
 
 ## My process
