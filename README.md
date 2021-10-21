@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://i.postimg.cc/J03d47F2/Screenshot-2021-10-19-at-00-18-14-Frontend-Mentor-Order-summary-card.png)
+![](https://i.postimg.cc/wMHVtytT/Screenshot-2021-10-21-at-17-25-31-Frontend-Mentor-Order-summary-card.png)
 
 ### Links
 
